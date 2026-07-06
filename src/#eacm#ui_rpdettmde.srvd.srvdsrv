@@ -1,0 +1,5 @@
+@EndUserText.label: 'RPDETTMDE Service Definition'
+define service /EACM/UI_RPDETTMDE {
+  expose /EACM/C_RPDETTMDE     as CommissionDetail;
+  expose /EACM/R_RPDETTMDE_PDF as PdfDownload;
+}

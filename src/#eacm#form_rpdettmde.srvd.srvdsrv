@@ -1,0 +1,11 @@
+@EndUserText.label: 'RPDETTMDE Form Data Provider'
+define service /EACM/FORM_RPDETTMDE {
+  expose /EACM/C_RPDETTMDE_FORM_H as Header;
+  expose /EACM/C_RPDETTMDE_FORM_V as General;
+  expose /EACM/C_RPDETTMDE_FORM_A as Agent;
+  expose /EACM/C_RPDETTMDE_FORM_C as Currency;
+  expose /EACM/C_RPDETTMDE_FORM_U as Customer;
+  expose /EACM/C_RPDETTMDE_FORM_T as AgentTotalsByClass;
+  expose /EACM/C_RPDETTMDE_FORM_G as GeneralTotalsByClass;
+  expose /EACM/C_RPDETTMDE_FORM_I as Item;
+}

@@ -1,0 +1,34 @@
+{
+  "formatVersion": "2",
+  "header": {
+    "description": "{{appDescription}}",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "appType": "ui5",
+    "catalogId": "SAP_TC_UI5_REPO_UIAD",
+    "targetMappingTitle": "Provvigioni maturate"
+  },
+  "ui5AppDetails": {
+    "appId": "eacm.rpdettmde"
+  },
+  "navigation": {
+    "targetMappingId": "/EACM/RPDETTMDE_UI5R_TM",
+    "semanticObject": "ZEACM_RPDETTMDE",
+    "action": "manage",
+    "desktop": true,
+    "tablet": true,
+    "phone": true
+  },
+  "tiles": [
+    {
+      "id": "/EACM/RPDETTMDE_UI5R_AL",
+      "tileType": "static",
+      "isDefault": true,
+      "standard": {
+        "title": "Provvigioni maturate"
+      }
+    }
+  ]
+}
