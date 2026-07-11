@@ -1,14 +1,14 @@
 {
   "formatVersion": "2",
   "header": {
-    "description": "{{appDescription}}",
+    "description": "Report Provvigioni Maturande",
     "originalLanguage": "en",
     "abapLanguageVersion": "cloudDevelopment"
   },
   "generalInformation": {
     "appType": "ui5",
     "catalogId": "SAP_TC_UI5_REPO_UIAD",
-    "targetMappingTitle": "Provvigioni maturate"
+    "targetMappingTitle": "Provvigioni Maturande"
   },
   "ui5AppDetails": {
     "appId": "eacm.rpdettmde"
@@ -27,7 +27,7 @@
       "tileType": "static",
       "isDefault": true,
       "standard": {
-        "title": "Provvigioni maturate"
+        "title": "Provvigioni Maturande"
       }
     }
   ]

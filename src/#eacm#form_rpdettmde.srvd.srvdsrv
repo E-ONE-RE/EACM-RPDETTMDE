@@ -1,4 +1,5 @@
 @EndUserText.label: 'RPDETTMDE Form Data Provider'
+@ObjectModel.leadingEntity.name: '/EACM/C_RPDETTMDE_FORM_H'
 define service /EACM/FORM_RPDETTMDE {
   expose /EACM/C_RPDETTMDE_FORM_H as Header;
   expose /EACM/C_RPDETTMDE_FORM_V as General;
