@@ -3,7 +3,7 @@
 define root custom entity /EACM/R_RPDETTMDE_PDF 
 {
   // Chiavi tecniche storiche mantenute per stabilita del contratto OData.
-  // Il frontend nuovo pero usa i campi business diretti della filter bar.
+  // Il frontend nuovo pero usa i campi business diretti della filter-bar.
   key CompanyCodeFrom     : bukrs;
   key CompanyCodeTo       : bukrs;
   key BillingDateFrom     : abap.char(8);
