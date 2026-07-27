@@ -17,6 +17,7 @@ define root view entity /EACM/C_RPDETTMDE
   key Zidag,
 
       Bukrs,
+      ZtpagDoc,
       Namea,
       Ztpag,
       Zdeag,
@@ -58,6 +59,5 @@ define root view entity /EACM/C_RPDETTMDE
       Zimpe,
       Zimst,
       Zlord,
-      Zimlr,
-      Sospeso
+      Zimlr
 }

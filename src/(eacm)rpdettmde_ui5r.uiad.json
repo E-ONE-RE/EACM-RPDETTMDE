@@ -1,14 +1,14 @@
 {
   "formatVersion": "2",
   "header": {
-    "description": "Report Provvigioni Maturande",
+    "description": "Report Provvigioni Maturande e stampa in PDF",
     "originalLanguage": "en",
     "abapLanguageVersion": "cloudDevelopment"
   },
   "generalInformation": {
     "appType": "ui5",
     "catalogId": "SAP_TC_UI5_REPO_UIAD",
-    "targetMappingTitle": "Provvigioni Maturande"
+    "targetMappingTitle": "Report Provvigioni Maturande"
   },
   "ui5AppDetails": {
     "appId": "eacm.rpdettmde"
@@ -27,7 +27,7 @@
       "tileType": "static",
       "isDefault": true,
       "standard": {
-        "title": "Provvigioni Maturande"
+        "title": "Report Provvigioni Maturande"
       }
     }
   ]

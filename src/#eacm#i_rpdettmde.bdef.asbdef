@@ -55,6 +55,5 @@ authorization master ( instance )
     Zimpe,
     Zimst,
     Zlord,
-    Zimlr,
-    Sospeso;
+    Zimlr;
 }

@@ -42,7 +42,7 @@ define root custom entity /EACM/R_RPDETTMDE_PDF
   Zclpr                   : /eacm/zclpr;
 
   @UI.hidden: true
-  zcdaz                   : /eacm/zcdaz;
+  Zcdaz                   : /eacm/zcdaz;
 
   @UI.hidden: true
   Vbeln                   : vbeln;

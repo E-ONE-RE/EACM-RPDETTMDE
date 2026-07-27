@@ -69,8 +69,7 @@ CLASS lhc_CommissionDetail IMPLEMENTATION.
         Zimpe,
         Zimst,
         Zlord,
-        Zimlr,
-        Sospeso
+        Zimlr
       FOR ALL ENTRIES IN @keys
       WHERE Vkorg = @keys-Vkorg
         AND Vtweg = @keys-Vtweg
